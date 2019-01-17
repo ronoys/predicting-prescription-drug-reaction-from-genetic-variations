@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Predicting prescription Drug Reaction from Genetic information
+description: This project is currently in progress. I am focusing on using genetic data
+to predict the reaction a specific patient will have with a certain drug
