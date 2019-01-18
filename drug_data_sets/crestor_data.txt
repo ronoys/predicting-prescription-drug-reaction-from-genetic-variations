@@ -1,0 +1,933 @@
+APOE E2   17289397
+
+rs2231142 23876492  0.02
+
+rs10455872  22331829  3.5e-9
+
+SLCO1B1*15  17568401  0.0707
+
+rs4149056   23708174  0.67
+
+rs4149056   23930675  0.005
+
+rs20455     30304062  0.07
+
+rs2231142   23930675  0.00001
+
+SLCO1B1*15  17568401  0.0253
+
+rs4363657   23708174  0.98
+
+rs2199939   22331829  2.1e-12
+
+rs2231142   23930675  0.0000001
+
+rs20455     30304062  0.03
+
+rs4149056   23942138  0.005
+
+rs7412      22331829  5.8e-19
+
+rs8187710   30100615  0.01
+
+rs662799    29695967  0.001
+195
+195
+East Asian
+other
+APOA5
+The correlation between APoB concentration and LDL cholesterol before and after treatment changed only slightly for the AG+GG genotypes (before rho = 0.55 p <0.001; after rho = 0.50 p<0.001) but decreased significantly for the AA genotype (before rho = 0.78 p<0.001; after rho 0.44 p<0.001) showing that the absolute reduction of ApoB was much smaller than the statin-induced reduction of LDLc. Please note: alleles have been complemented to the + chromosomal strand.
+SLCO1B1*15
+17568401
+rosuvastatin
+SLCO1B1 *15/*15 is associated with decreased metabolism of rosuvastatin in healthy individuals as compared to SLCO1B1 *1B/*15.
+yes
+0.05
+29
+29
+East Asian
+metabolism/PK
+SLCO1B1
+Those with the *15/*15 genotype had increased exposure to the drug, as determined by higher AUC0-infinity values and higher maximum plasma concentrations. The study genotyped for rs2306283 (388A>G) and rs4149056 (521T>C) in OATP1B1 (SLCO1B1) - rsIDs not provided.
+rs8187706
+30100615
+rosuvastatin
+Allele A is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+Alleles complemented compared to Table 2.
+rs71352238
+22331829
+rosuvastatin
+Genotypes CC + CT are associated with decreased response to rosuvastatin as compared to genotype TT.
+yes
+2.9e-4
+6989
+6989
+European
+efficacy
+APOE
+The minor allele of this SNP is associated with decreased LDL-C reduction on rosuvastatin. The mean per allele effect was 4.17 mg/dL.
+rs17216177
+30100615
+rosuvastatin
+Allele C is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele T.
+yes
+0.006
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+CYP2C19*1CYP2C19*2CYP2C19*3
+23930675
+rosuvastatin
+CYP2C19 *2 + *3 is not associated with percentage change in LDL-cholesterol levels when treated with rosuvastatin in people with Hypercholesterolemia as compared to CYP2C19 *1.
+no
+0.035
+274
+274
+East Asian
+metabolism/PK
+CYP2C19
+p<0.008 was considered significant after correction for multiple testing. CYP2C19*1/*1 (homozygous Extensive Metabolizers) vs *1/*2 or *1/*3 (heterozygous Extensive Metabolizers) vs *2/*2 or *2/*3 (poor metabolizers): no association was seen.
+rs17111584
+22331829
+rosuvastatin
+Genotypes CC + CT are associated with decreased response to rosuvastatin as compared to genotype TT.
+yes
+5.8e-4
+6989
+6989
+European
+efficacy
+USP24
+The minor allele of this SNP is associated with decreased LDL-C reduction on rosuvastatin.
+rs1481012
+22331829
+rosuvastatin
+Genotypes AG + GG are associated with increased response to rosuvastatin as compared to genotype AA.
+yes
+1.7e-15
+6989
+6989
+European
+efficacy
+ABCG2
+The minor allele of this SNP is associated with increased fractional LDL-C reduction on rosuvastatin.
+rs4693075
+23942138
+atorvastatinfluvastatinhmg coa reductase inhibitorspravastatinrosuvastatinsimvastatin
+Allele C is not associated with risk of Muscular Diseases when treated with atorvastatin, fluvastatin, hmg coa reductase inhibitors, pravastatin, rosuvastatin or simvastatin as compared to allele G.
+no
+0.358
+372
+372
+Mixed Population
+toxicity
+COQ2
+CYP2C9*1CYP2C9*3
+23930675
+rosuvastatin
+CYP2C9 *1/*3 + *3/*3 is not associated with percentage change in LDL-cholesterol levels when treated with rosuvastatin in people with Hypercholesterolemia as compared to CYP2C9 *1/*1.
+no
+0.755
+276
+276
+East Asian
+metabolism/PK
+CYP2C9
+p<0.008 was considered significant after correction for multiple testing.
+rs17216198
+30100615
+rosuvastatin
+Allele T is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele C.
+yes
+0.015
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+rs16980091
+30100615
+rosuvastatin
+Allele T is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele C.
+yes
+0.04
+12
+12
+Sub-Saharan African
+metabolism/PK
+FOXA3
+rs12487736
+29318930
+rosuvastatin
+Allele C is associated with increased response to rosuvastatin in people with Metabolic Syndrome as compared to allele T.
+yes
+0.001
+74
+74
+European
+efficacy
+SCAP
+rs7899457
+30100615
+rosuvastatin
+Allele T is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele C.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+rs662799
+29695967
+rosuvastatin
+Genotype AA is associated with increased response to rosuvastatin in people with Dyslipidaemia as compared to genotypes AG + GG.
+yes
+0.05
+65
+65
+East Asian
+efficacy
+APOA5
+Subjects were randomized to receive one of three dose-adjusted statins (N = 65 rosuvastatin, N= 65 atorvastatin, N= 65 simvastatin) and cholesterol (HDL, LDL), triglycerides and free-fatty acids (FFA) were compared between groups before and after statin treatment. Please note: alleles have been complemented to the + chromosomal strand.
+rs3740066
+30100615
+rosuvastatin
+Allele T is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele C.
+yes
+0.01
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+CYP2C19*1CYP2C19*2CYP2C19*3
+23930675
+rosuvastatin
+CYP2C19 *2 + *3 is not associated with plasma concentrations of rosuvastatin when treated with rosuvastatin in people with Hypercholesterolemia as compared to CYP2C19 *1.
+yes
+0.265
+274
+274
+East Asian
+metabolism/PK
+CYP2C19
+p<0.008 was considered significant after correction for multiple testing. CYP2C19*1/*1 (homozygous Extensive Metabolizers) vs *1/*2 or *1/*3 (heterozygous Extensive Metabolizers) vs *2/*2 or *2/*3 (poor metabolizers): no association was seen.
+rs4149056
+23930675
+rosuvastatin
+Genotype TT is not associated with percentage change in LDL-cholesterol levels when treated with rosuvastatin in people with Hypercholesterolemia as compared to genotypes CT + TT.
+no
+0.532
+272
+272
+East Asian
+metabolism/PK
+SLCO1B1
+p<0.008 was considered significant after correction for multiple testing.
+rs2306283
+23930675
+rosuvastatin
+Genotype AA is not associated with percentage change in LDL-cholesterol levels when treated with rosuvastatin in people with Hypercholesterolemia as compared to genotype GG.
+no
+0.326
+254
+254
+East Asian
+metabolism/PK
+SLCO1B1
+p<0.008 was considered significant after correction for multiple testing. No association was seen between AA, AG and GG genotypes.
+rs4149056
+25630984
+rosuvastatin
+Allele T is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele C.
+not stated
+138
+138
+Mixed Population
+metabolism/PK
+SLCO1B1
+The authors compared PK parameters of rosuvastain between a Caucasian group (22) a Chinese (17), Filipino (19), Indian (16), Korean (23), Vietnamese(16), and Japanese (25) groups as well as a pooled "Asian" group. Similar genotype frequencies were observed across groups except an Indian subset who were TT. Only one Caucasian was CC. Exposure to rosuvastatin (as measured by AUC(0-t) and C max) was higher in people with the CT genotype compared to TT genotype regardless of ethnic groups (except in the Filipino group) and does not explain the inter-ethnic variation in rosuvastatin exposure in Asian populations as compared to Caucasians. Geometric mean Cmax Caucasian CT =16.99 versus TT =9.84 and Cmax Pooled Asian group CT=27.90 versus TT =19.67. Geometric mean AUC(0-t) Caucasian CT =165.7 versus TT =98.4 and AUC(0-t) Pooled Asian group CT =247.9 versus TT = 181.1.
+rs3212207
+30100615
+rosuvastatin
+Allele C is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.01
+12
+12
+Sub-Saharan African
+metabolism/PK
+HNF4A
+rs2287622
+30100615
+rosuvastatin
+Allele G is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele A.
+yes
+0.003
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCB11
+Alleles complemented to plus chromosomal strand.
+rs776746
+30595243
+atorvastatinrosuvastatin
+Genotype CC is associated with increased likelihood of Muscular Diseases when treated with atorvastatin or rosuvastatin in people with Diabetes Mellitus, Hyperlipidemias, Hypertension or Obesity as compared to genotypes CT + TT.
+yes
+0.04
+64
+64
+Unknown
+toxicity
+CYP3ACYP3A5
+Authors play down the significance because it was not significant when looking at atorvastatin or rosuvastatin subsets individually.
+rs2306283
+23930675
+rosuvastatin
+Genotype AA is not associated with plasma concentrations of rosuvastatin when treated with rosuvastatin in people with Hypercholesterolemia as compared to genotype GG.
+no
+0.390
+254
+254
+East Asian
+metabolism/PK
+SLCO1B1
+p<0.008 was considered significant after correction for multiple testing. No association was seen between AA, AG and GG genotypes.
+rs776746
+20207952
+rosuvastatin
+Allele C is associated with increased response to rosuvastatin in people with Myocardial Infarction as compared to allele T.
+yes
+0.017
+186
+186
+Unknown
+efficacy
+CYP3A5
+as measured by achievement of their LDL cholesterol target (significance given for variants of either CYP3A5*1, 6986A>G, rs776746 and ABCG2; 421C>A, rs2231142).
+rs17238540
+18815589
+atorvastatincerivastatinfluvastatinpravastatinrosuvastatinsimvastatin
+Genotype GT is associated with decreased likelihood of reaching target cholesterol levels when treated with atorvastatin, cerivastatin, fluvastatin, pravastatin, rosuvastatin or simvastatin in people with Diabetes Mellitus as compared to genotype TT.
+yes
+5.0E-4
+1601
+1601
+European
+efficacy
+HMGCR
+Odds ratio for failure to reach target TG vs TT = 2.93 (1.61-5.34). Patients who have had at least 2 statin prescriptions.
+rs4149056
+17473846
+rosuvastatin
+Genotype CC is associated with increased AUC (p=0.002) and Cmax (p=0.003) when exposed to rosuvastatin in healthy individuals as compared to genotype TT.
+yes
+0.002
+32
+32
+Unknown
+metabolism/PK
+SLCO1B1
+This SLCO1B1 polymorphism has a larger effect on the PK of atorvastatin than rosuvastatin.
+rs1805343
+30100615
+rosuvastatin
+Allele A is associated with increased exposure to rosuvastatin in healthy individuals.
+yes
+0.001
+12
+12
+Sub-Saharan African
+metabolism/PK
+RXRA
+Table 2 lists this is C reference allele (lower exposure) and A variant allele (higher exposure).
+rs8187692
+30100615
+rosuvastatin
+Allele A is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.003
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCC2
+rs4149056
+27839692
+atorvastatinfluvastatinhmg coa reductase inhibitorspitavastatinpravastatinrosuvastatinsimvastatin
+Allele C is not associated with increased risk of Muscular Diseases when treated with atorvastatin, fluvastatin, hmg coa reductase inhibitors, pitavastatin, pravastatin, rosuvastatin or simvastatin as compared to allele T.
+no
+0.067
+2872
+2872
+East Asian
+toxicity
+SLCO1B1
+rs2819742
+27839692
+atorvastatinfluvastatinhmg coa reductase inhibitorspitavastatinpravastatinrosuvastatinsimvastatin
+Allele A is not associated with increased risk of Muscular Diseases when treated with atorvastatin, fluvastatin, hmg coa reductase inhibitors, pitavastatin, pravastatin, rosuvastatin or simvastatin as compared to allele G.
+no
+0.777
+2872
+2872
+East Asian
+toxicity
+RYR2
+rs12487736
+27885915
+rosuvastatin
+Genotypes CC + CT is associated with decreased severity of Hyperlipidemias when treated with rosuvastatin in people with metabolic syndrome as compared to genotype TT.
+yes
+0.008
+63
+63
+Central/South Asian
+efficacy
+SCAP
+Variant is described as SCAP 2386A>G (Ile796Val), gene is on minus strand so alleles complemented to show on plus chromosomal strand.
+rs7579275
+30100615
+rosuvastatin
+Allele G is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele A.
+yes
+0.03
+12
+12
+Sub-Saharan African
+metabolism/PK
+ABCB11
+rs2231142
+25630984
+rosuvastatin
+Allele T is associated with increased exposure to rosuvastatin in healthy individuals as compared to allele G.
+not stated
+138
+138
+Mixed Population
+metabolism/PK
+ABCG2
+The authors compared PK parameters of rosuvastain between a Caucasian group (22) a Chinese (17), Filipino (19), Indian (16), Korean (23), Vietnamese(16), and Japanese (25) groups as well as a pooled "Asian" group. AUC(0-t) and C max were higher in subjects with the GT or TT genotypes compared with the GG genotype. The T allele may account for some but not all inter-ethnic group variability rosuvastatin PK. Within the Asian group the T allele appeared to have a greater effect in homozygotes although only five patients in the pooled Asian group were TT while there were no TT in the Caucasian population. Geometric mean Cmax pooled Asian group TT =44.56 versus GT =24.14 and GG =17.46 and Cmax Caucasian GT =11.97 versus GG =11.56. Geometric mean AUC (0-t) pooled Asian group TT =387.8, GT =222.4, GG =159.1 and AUC(0-t) Caucasian group GT =124.9 versus TT =111.4.
+rs2306283
+25630984
+rosuvastatin
+Allele G is not associated with exposure to rosuvastatin in healthy individuals as compared to allele A.
+not stated
+138
+138
+Mixed Population
+metabolism/PK
+SLCO1B1
+The authors compared PK parameters of rosuvastain between a Caucasian group (22) a Chinese (17), Filipino (19), Indian (16), Korean (23), Vietnamese(16), and Japanese (25) groups as well as a pooled "Asian" group. Similar genotype frequencies were observed across groups except an Indian subset who were TT. Only one Caucasian was CC. Exposure to rosuvastatin (as measured by AUC(0-t) and C max) was not affected by genotype.
+rs2231142
+20130569
+rosuvastatin
+Allele T is associated with increased reduction in low-density lipoprotein cholesterol (LDL-C) level, in a gene-dose-dependent manner, when treated with rosuvastatin in people with Hypercholesterolemia as compared to allele G.
+yes
+6.0E-4
+305
+305
+East Asian
+efficacy
+ABCG2
+rs34671512
+30100615
+rosuvastatin
+Allele C is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele A.
+yes
+0.016
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLCO1B1
+rs4149056
+25673568
+rosuvastatin
+Genotype CT is associated with increased exposure to rosuvastatin in healthy individuals as compared to genotype TT.
+not stated
+31
+31
+East Asian
+metabolism/PK
+SLCO1B1
+1) Caucasians AUC0-t (ng*h/mL): Geometric mean (95% CI) AND Cmax (ng/mL): Geometric mean (95% CI) 2) Chinese AUC0-t (ng*h/mL): Geometric mean (95% CI) AND Cmax (ng/mL): Geometric mean (95% CI) 3) Japanese AUC0-t (ng*h/mL): Geometric mean (95% CI) AND Cmax (ng/mL): Geometric mean (95% CI)
+rs2231142
+28322941
+rosuvastatin
+Genotype GT is associated with increased exposure to rosuvastatin in healthy individuals as compared to genotype GG.
+no
+0.05
+23
+23
+East Asian
+dosage
+ABCG2
+Exposure was measured as Cmax and AUC 0-24.
+rs11045874
+30100615
+rosuvastatin
+Allele C is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLCO1B1
+28322941
+glibenclamiderosuvastatinsulfasalazine
+Genotype *3/*3 is not associated with concentrations of glibenclamide, rosuvastatin or sulfasalazine in healthy individuals as compared to genotype *1/*1.
+no
+23
+23
+East Asian
+dosage
+SLCO2B1
+HLA-DRB1*01:01:01HLA-DRB1*04:06:01
+27839692
+atorvastatinfluvastatinhmg coa reductase inhibitorspitavastatinpravastatinrosuvastatinsimvastatin
+HLA-DRB1 *04:06:01 is associated with increased risk of Muscular Diseases when treated with atorvastatin, fluvastatin, hmg coa reductase inhibitors, pitavastatin, pravastatin, rosuvastatin or simvastatin as compared to HLA-DRB1 *01:01:01.
+yes
+0.003
+2872
+2872
+East Asian
+toxicity
+HLA-DRB1
+rs12721616
+30100615
+rosuvastatin
+Allele T is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele C.
+yes
+0.01
+12
+12
+Sub-Saharan African
+metabolism/PK
+NR1I2
+rs4693075
+20347093
+atorvastatinrosuvastatin
+Allele G is associated with increased risk of Muscular Diseases when treated with atorvastatin or rosuvastatin in people with Hyperlipoproteinemia Type II as compared to allele C.
+yes
+3.0E-4
+76
+76
+European
+toxicity
+COQ2
+rs2231142
+20207952
+rosuvastatin
+Allele T is associated with increased response to rosuvastatin in people with Myocardial Infarction as compared to allele G.
+yes
+0.017
+186
+186
+Unknown
+efficacy
+ABCG2
+as measured by achievement of their LDL cholesterol target (significance given for variants of either CYP3A5*1, 6986A>G, rs776746 and ABCG2; 421C>A, rs2231142).
+rs4149056
+22668755
+rosuvastatin
+Allele T is not associated with LDL-C response when treated with rosuvastatin in people with Coronary Disease as compared to allele C.
+no
+0.92
+247
+247
+East Asian
+efficacy
+SLCO1B1
+rs9806699
+27839692
+atorvastatinfluvastatinhmg coa reductase inhibitorspitavastatinpravastatinrosuvastatinsimvastatin
+Allele G is not associated with increased risk of Muscular Diseases when treated with atorvastatin, fluvastatin, hmg coa reductase inhibitors, pitavastatin, pravastatin, rosuvastatin or simvastatin as compared to allele A.
+no
+0.663
+2872
+2872
+East Asian
+toxicity
+GATM
+rs56903885
+30100615
+rosuvastatin
+Allele T is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.007
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLC10A1
+Alleles complemented to plus chromosomal strand.
+rs2231142
+16784736
+rosuvastatin
+Genotype GG is associated with decreased AUC of rosuvastatin in people with no disease as compared to genotypes TT + GT.
+yes
+0.018
+14
+14
+East Asian
+dosage
+metabolism/PK
+ABCG2
+(after the exclusion of impact of SLCO1B1 and CYP2C9 genetic polymorphism)
+SLCO1B1*18SLCO1B1*1ASLCO1B1*1B
+16697742
+rosuvastatin
+SLCO1B1 *18 is associated with decreased uptake of rosuvastatin as compared to SLCO1B1 *1A + *1B.
+not stated
+other
+SLCO1B1
+This variant is associated with profound loss of activity toward rosuvastatin.
+rs776746
+28812116
+atorvastatinrosuvastatinsimvastatin
+Allele T is not associated with likelihood of statin-related myopathy when treated with atorvastatin, rosuvastatin and simvastatin in people with Coronary Artery Disease as compared to allele T.
+no
+0.685
+255
+255
+East Asian
+toxicity
+CYP3A5
+Patients with myopathy (cases) and without (controls) were recruited from among two 2200 who had finished at least one follow-up assessment for statin-induced myopathy. Please note: alleles have been complemented to the positive strand.
+rs11045854
+30100615
+rosuvastatin
+Allele A is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLCO1B1
+Text describes Alleles 882A as 75% reduced exposure. Table 2 lists this A reference allele (higher exposure) and insATAA variant allele (lower exposure).
+rs2231142
+19474787
+rosuvastatin
+Genotype TT is associated with increased AUC of rosuvastatin in people with no disease as compared to genotypes GG + GT.
+yes
+0.01
+32
+32
+European
+dosage
+metabolism/PK
+ABCG2
+rs1205
+21094359
+rosuvastatin
+Genotypes CT + TT are associated with decreased plasma level of high-sensitivity C-reactive protein when treated with rosuvastatin in people with Coronary Disease as compared to genotype CC.
+yes
+0.007
+259
+259
+East Asian
+efficacy
+metabolism/PK
+other
+CRP
+Plasma level of high-sensitivity C-reactive protein can be a predictor of cardiovascular outcome.
+SLCO1B1*15SLCO1B1*1ASLCO1B1*1B
+16697742
+rosuvastatin
+SLCO1B1 *15 is associated with decreased uptake of rosuvastatin as compared to SLCO1B1 *1A + *1B.
+not stated
+other
+SLCO1B1
+in vitro. This variant is associated with profound loss of activity toward rosuvastatin.
+SLCO1B1*1ASLCO1B1*1BSLCO1B1*9
+16697742
+rosuvastatin
+SLCO1B1 *9 is associated with decreased uptake of rosuvastatin as compared to SLCO1B1 *1A + *1B.
+not stated
+other
+SLCO1B1
+This variant is associated with profound loss of activity toward rosuvastatin.
+rs11045873
+30100615
+rosuvastatin
+Allele A is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele T.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLCO1B1
+rs4149081
+22668755
+rosuvastatin
+Genotype AG is associated with increased LDL-C reduction when treated with rosuvastatin in people with Coronary Disease as compared to genotype GG.
+yes
+0.033
+247
+247
+East Asian
+efficacy
+SLCO1B1
+SLCO1B1*1ASLCO1B1*1BSLCO1B1*5
+16697742
+rosuvastatin
+SLCO1B1 *5 is associated with decreased uptake of rosuvastatin as compared to SLCO1B1 *1A + *1B.
+not stated
+other
+SLCO1B1
+This variant is associated with profound loss of activity toward rosuvastatin.
+rs12305884
+30100615
+rosuvastatin
+Allele A is associated with decreased exposure to rosuvastatin in healthy individuals as compared to allele G.
+yes
+0.002
+12
+12
+Sub-Saharan African
+metabolism/PK
+SLCO1B1
+rs4149056
+28812116
+rosuvastatin
+Allele C is associated with increased likelihood of statin-related myopathy when treated with rosuvastatin in people with Coronary Artery Disease as compared to allele T.
+yes
+0.007
+255
+255
+East Asian
+toxicity
+SLCO1B1
+Patients with myopathy (cases) and without (controls) were recruited from among two 2200 who had finished at least one follow-up assessment for statin-induced myopathy.
+rs2808630
+21094359
+rosuvastatin
+Genotypes CC + CT are associated with decreased plasma level of high-sensitivity C-reactive protein when treated with rosuvastatin in people with Coronary Disease as compared to genotype TT.
+yes
+0.0098
+259
+259
+East Asian
+efficacy
+metabolism/PK
+other
+Plasma level of high-sensitivity C-reactive protein can be a predictor of cardiovascular outcome.
+rs1736557
+20679960
+rosuvastatin
+Allele A is associated with severity of Hypercholesterolemia when treated with rosuvastatin as compared to allele G.
+yes
+0.001
+386
+386
+East Asian
+efficacy
+FMO3
+rs2306283
+22668755
+rosuvastatin
+Allele A is not associated with LDL-C response when treated with rosuvastatin in people with Coronary Disease as compared to allele G.
+no
+0.308
+228
+228
+East Asian
+efficacy
+SLCO1B1
+rs429358
+28812116
+atorvastatinrosuvastatinsimvastatin
+Allele T is not associated with likelihood of statin-related myopathy when treated with atorvastatin, rosuvastatin and simvastatin in people with Coronary Artery Disease as compared to allele C.
+no
+0.472
+255
+255
+East Asian
+toxicity
+APOE
+Patients with myopathy (cases) and without (controls) were recruited from among two 2200 who had finished at least one follow-up assessment for statin-induced myopathy.
+rs4149056
+16198652
+rosuvastatin
+Genotype CC is associated with increased concentrations of rosuvastatin in healthy individuals as compared to genotypes CT + TT.
+yes
+0.001
+35
+35
+Central/South Asian
+metabolism/PK
+SLCO1B1
+This effect was only seen in the subset of white individuals, and not observed in the different groups of Asian individuals where there were no CC homozygotes.
+CYP2C9*2
+17289397
+fluvastatinrosuvastatinsimvastatin
+CYP2C9 *2 is not associated with likelihood of myopathy when treated with fluvastatin, rosuvastatin or simvastatin as compared to CYP2C9 *1.
+no
+14
+14
+Unknown
+toxicity
+CYP2C9
+No differences in allele or genotype frequencies of CYP2C9*1, *2 or *3 were observed in patients with adverse events compared to those without.
+rs1169288
+21094359
+rosuvastatin
+Genotypes AC + CC are associated with decreased plasma level of high-sensitivity C-reactive protein when treated with rosuvastatin in people with Coronary Disease as compared to genotype AA.
+yes
+0.056
+259
+259
+East Asian
+efficacy
+metabolism/PK
+other
+HNF1A
+Plasma level of high-sensitivity C-reactive protein can be a predictor of cardiovascular outcome. Original p value was 0.004; adjusted for testing of 14 SNPs leads to p > 0.05.
+rs4149056
+23876492
+rosuvastatin
+Allele C is associated with increased plasma concentrations of rosuvastatin as compared to allele T.
+yes
+0.001
+130
+130
+Unknown
+metabolism/PK
+SLCO1B1
+Multiple linear regression analysis adjusted for sex, ethnicity, body mass index, dose and time from last dose.
+CYP2C9*3
+17289397
+fluvastatinrosuvastatinsimvastatin
+CYP2C9 *3 is not associated with likelihood of myopathy when treated with fluvastatin, rosuvastatin or simvastatin as compared to CYP2C9 *1.
+no
+14
+14
+Unknown
+toxicity
+CYP2C9
+No differences in allele or genotype frequencies of CYP2C9*1, *2 or *3 were observed in patients with adverse events compared to those without.
+rs768445692
+30325262
+rosuvastatin
+Allele C is associated with Rhabdomyolysis and statin-related myopathy when treated with rosuvastatin as compared to allele T.
+no
+1
+1
+European
+toxicity
+CACNA1S
+Alleles complemented to plus chromosomal strand. While study looked at 76 subjects with severe statin-associated muscle symptoms and 50 statin-tolerant controls, then studied exam sequencing data in RYR1 and CACNA1S, most variants considered pathogenic were at very low frequency and were reported as case series not with statistics for overall risk.
+rs4149056
+18794729
+atorvastatinfluvastatinpravastatinrosuvastatinsimvastatin
+Genotype CC is not associated with the short-term effects of statins on cholesterol homeostasis when exposed to atorvastatin, fluvastatin, pravastatin, rosuvastatin and simvastatin.
+no
+other
+SLCO1B1
+rs9806699
+23995691
+hmg coa reductase inhibitorsrosuvastatinsimvastatin
+Allele A is not associated with increased creatine kinase level when treated with hmg coa reductase inhibitors, rosuvastatin or simvastatin as compared to allele G.
+no
+0.83
+3052
+3052
+European
+toxicity
+GATM
+This demonstrated that the association of this SNP with statin-induced myopathy is not due to an association with plasma creatine kinase levels. CAP participants were treated with simvastatin; JUPITER participants were treated with rosuvastatin. These two trials had no myopathy cases.
+CYP2C9*1CYP2C9*3
+17289397
+fluvastatinrosuvastatinsimvastatin
+CYP2C9 *1/*3 is not associated with lipid response when treated with fluvastatin, rosuvastatin or simvastatin as compared to CYP2C9 *1/*1.
+no
+32
+32
+Unknown
+efficacy
+CYP2C9
+No differences in allele or genotype frequencies were observed in patients with changes in lipids compared to those without.
+rs2306283
+16198652
+rosuvastatin
+Genotype GG is associated with increased concentrations of rosuvastatin in healthy individuals as compared to genotype AA.
+yes
+0.0456
+36
+36
+European
+metabolism/PK
+SLCO1B1
+This effect was only considered "marginally significant" by the authors and only seen in the subset of white individuals, and not observed in the different groups of Asian individuals.
+rs2231142
+20679960
+rosuvastatin
+Allele T is associated with severity of Hypercholesterolemia when treated with rosuvastatin as compared to allele G.
+yes
+1.0E-4
+386
+386
+East Asian
+efficacy
+ABCG2
+rs7412
+28812116
+atorvastatinrosuvastatinsimvastatin
+Allele T is not associated with likelihood of statin-related myopathy when treated with atorvastatin, rosuvastatin and simvastatin in people with Coronary Artery Disease as compared to allele C.
+no
+1.00
+255
+255
+East Asian
+toxicity
+APOE
+Patients with myopathy (cases) and without (controls) were recruited from among two 2200 who had finished at least one follow-up assessment for statin-induced myopathy.
+rs2306283
+28812116
+atorvastatinrosuvastatinsimvastatin
+Allele G is not associated with likelihood of statin-related myopathy when treated with atorvastatin, rosuvastatin and simvastatin in people with Coronary Artery Disease as compared to allele A.
+no
+0.060
+255
+255
+East Asian
+toxicity
+SLCO1B1
+Patients with myopathy (cases) and without (controls) were recruited from among two 2200 who had finished at least one follow-up assessment for statin-induced myopathy.
+rs4149081
+22668755
+rosuvastatin
+Genotype AA is associated with increased LDL-C reduction when treated with rosuvastatin in people with Coronary Disease as compared to genotypes AG + GG.
+yes
+0.01
+247
+247
+East Asian
+efficacy
+SLCO1B1
+rs4149056
+18794729
+atorvastatinfluvastatinpravastatinrosuvastatinsimvastatin
+Genotype CC is associated with increased cholesterol synthesis rate when exposed to atorvastatin, fluvastatin, pravastatin, rosuvastatin and simvastatin as compared to genotype TT.
+yes
+0.043
+32
+32
+Unknown
+SLCO1B1
+Loading...
