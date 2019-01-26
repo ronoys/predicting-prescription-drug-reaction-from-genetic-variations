@@ -1,0 +1,2 @@
+Variant     PMID        P-Value
+rs1042713   19183167    0.018
