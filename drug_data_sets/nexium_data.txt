@@ -1,0 +1,3 @@
+Variant     PMID      P-Value
+CYP2C19*17  27419077  0.001
+CYP2C19*1   23646118  0.001
