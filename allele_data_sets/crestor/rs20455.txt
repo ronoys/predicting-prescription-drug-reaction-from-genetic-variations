@@ -1,0 +1,28 @@
+Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
+gnomAD - Exomes	  Global	           Study-wide	  246074	         A=0.59628	   G=0.40372
+gnomAD - Exomes	  European	         Sub	        133912	         A=0.63602	   G=0.36398
+gnomAD - Exomes	  Asian	             Sub	        47992            A=0.5544	     G=0.4456
+gnomAD - Exomes	  American	         Sub	        33556	           A=0.6654	     G=0.3346
+gnomAD - Exomes	  African	           Sub	        15298	           A=0.1895	     G=0.8105
+gnomAD - Exomes	  Ashkenazi Jewish	 Sub	        9844	           A=0.653	     G=0.347
+gnomAD - Exomes	  Other	             Sub	        5472	           A=0.602	     G=0.398
+TopMed	          Global	           Study-wide	  125568	         A=0.49911	   G=0.50089
+ExAC	            Global	           Study-wide	  121364	         A=0.58240	   G=0.41760
+ExAC	            Europe             Sub	        73330	           A=0.6342      G=0.3658
+ExAC	            Asian	             Sub	        25148	           A=0.5503	     G=0.4497
+ExAC	            American	         Sub	        11572	           A=0.6666	     G=0.3334
+ExAC	            African	           Sub	        10406	           A=0.1977	     G=0.8023
+ExAC	            Other	             Sub	        908	             A=0.63        G=0.37
+gnomAD - Genomes	Global	           Study-wide	  30890	           A=0.5102	     G=0.4898
+gnomAD - Genomes	European	         Sub	        18454	           A=0.6407	     G=0.3593
+gnomAD - Genomes	African	           Sub	        8708	           A=0.198	     G=0.802
+gnomAD - Genomes	East Asian	       Sub	        1612	           A=0.534	     G=0.466
+gnomAD - Genomes	Other	             Sub	        978	             A=0.62	       G=0.38
+gnomAD - Genomes	American           Sub	        836	             A=0.65	       G=0.35
+gnomAD - Genomes	Ashkenazi Jewish	 Sub	        302	             A=0.67	       G=0.33
+1000Genomes	      Global	           Study-wide	  5008 	           A=0.460	     G=0.540
+1000Genomes	      African	           Sub	        1322	           A=0.146	     G=0.854
+1000Genomes	      East Asian	       Sub	        1008	           A=0.476	     G=0.524
+1000Genomes	      Europe	           Sub	        1006	           A=0.637	     G=0.363
+1000Genomes	      South Asian	       Sub        	978	             A=0.54	       G=0.46
+1000Genomes	      American	         Sub        	694	             A=0.67	       G=0.33

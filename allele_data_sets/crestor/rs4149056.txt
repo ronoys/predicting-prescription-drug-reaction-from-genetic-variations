@@ -1,0 +1,31 @@
+Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
+gnomAD - Exomes	Global	Study-wide	245754	T=0.86738	C=0.13262
+gnomAD - Exomes	European	Sub	133678	T=0.83513	C=0.16487
+gnomAD - Exomes	Asian	Sub	47954	T=0.9226	C=0.0774
+gnomAD - Exomes	American	Sub	33536	T=0.8882	C=0.1118
+gnomAD - Exomes	African	Sub	15300	T=0.9728	C=0.0272
+gnomAD - Exomes	Ashkenazi Jewish	Sub	9820	T=0.820	C=0.180
+gnomAD - Exomes	Other	Sub	5466	T=0.833	C=0.167
+TopMed	Global	Study-wide	125568	T=0.88942	C=0.11058
+ExAC	Global	Study-wide	121290	T=0.87057	C=0.12943
+ExAC	Europe	Sub	73286	T=0.8349	C=0.1651
+ExAC	Asian	Sub	25144	T=0.9236	C=0.0764
+ExAC	American	Sub	11552	T=0.8935	C=0.1065
+ExAC	African	Sub	10402	T=0.9716	C=0.0284
+ExAC	Other	Sub	906	T=0.83	C=0.17
+gnomAD - Genomes	Global	Study-wide	30914	T=0.8646	C=0.1354
+gnomAD - Genomes	European	Sub	18452	T=0.8151	C=0.1849
+gnomAD - Genomes	African	Sub	8728	T=0.967	C=0.033
+gnomAD - Genomes	East Asian	Sub	1614	T=0.880	C=0.120
+gnomAD - Genomes	Other	Sub	982	T=0.84	C=0.16
+gnomAD - Genomes	American	Sub	836	T=0.89	C=0.11
+gnomAD - Genomes	Ashkenazi Jewish	Sub	302	T=0.84	C=0.16
+GO Exome Sequencing Project	Global	Study-wide	13006	T=0.8851	C=0.1149
+GO Exome Sequencing Project	European American	Sub	8600	T=0.845	C=0.155
+GO Exome Sequencing Project	African American	Sub	4406	T=0.964	C=0.036
+1000Genomes	Global	Study-wide	5008	T=0.912	C=0.088
+1000Genomes	African	Sub	1322	T=0.986	C=0.014
+1000Genomes	East Asian	Sub	1008	T=0.877	C=0.123
+1000Genomes	Europe	Sub	1006	T=0.839	C=0.161
+1000Genomes	South Asian	Sub	978	T=0.96	C=0.04
+1000Genomes	American	Sub	694	T=0.87	C=0.13
