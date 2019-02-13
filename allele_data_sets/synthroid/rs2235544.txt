@@ -1,0 +1,34 @@
+Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
+gnomAD - Exomes	Global	Study-wide	244170	C=0.46785	A=0.53214, T=0.00000
+gnomAD - Exomes	European	Sub	132028	C=0.48681	A=0.51319, T=0.00000
+gnomAD - Exomes	Asian	Sub	47980	C=0.4163	A=0.5837, T=0.0000
+gnomAD - Exomes	American	Sub	33572	C=0.2888	A=0.7112, T=0.0000
+gnomAD - Exomes	African	Sub	15294	C=0.7694	A=0.2306, T=0.0000
+gnomAD - Exomes	Ashkenazi Jewish	Sub	9836	C=0.600	A=0.400, T=0.000
+gnomAD - Exomes	Other	Sub	5460	C=0.480	A=0.520, T=0.000
+TopMed	Global	Study-wide	125568	C=0.57010	A=0.42990
+ExAC	Global	Study-wide	121134	C=0.47939	A=0.52061
+ExAC	Europe	Sub	73180	C=0.4957	A=0.5043
+ExAC	Asian	Sub	25094	C=0.4132	A=0.5868
+ExAC	American	Sub	11558	C=0.2620	A=0.7380
+ExAC	African	Sub	10396	C=0.7628	A=0.2372
+ExAC	Other	Sub	906	C=0.52	A=0.48
+gnomAD - Genomes	Global	Study-wide	30876	C=0.5531	A=0.4469
+gnomAD - Genomes	European	Sub	18432	C=0.4728	A=0.5272
+gnomAD - Genomes	African	Sub	8704	C=0.764	A=0.236
+gnomAD - Genomes	East Asian	Sub	1618	C=0.493	A=0.507
+gnomAD - Genomes	Other	Sub	982	C=0.47	A=0.53
+gnomAD - Genomes	American	Sub	838	C=0.32	A=0.68
+gnomAD - Genomes	Ashkenazi Jewish	Sub	302	C=0.65	A=0.35
+GO Exome Sequencing Project	Global	Study-wide	13006	C=0.5780	A=0.4220
+GO Exome Sequencing Project	European American	Sub	8600	C=0.497	A=0.503
+GO Exome Sequencing Project	African American	Sub	4406	C=0.737	A=0.263
+1000Genomes	Global	Study-wide	5008	C=0.540	A=0.460
+1000Genomes	African	Sub	1322	C=0.837	A=0.163
+1000Genomes	East Asian	Sub	1008	C=0.539	A=0.461
+1000Genomes	Europe	Sub	1006	C=0.475	A=0.525
+1000Genomes	South Asian	Sub	978	C=0.33	A=0.67
+1000Genomes	American	Sub	694	C=0.36	A=0.64
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	C=0.454	A=0.546
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	C=0.467	A=0.533
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	C=0.482	A=0.518
