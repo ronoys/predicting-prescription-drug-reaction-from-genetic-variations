@@ -1,0 +1,16 @@
+Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
+TopMed	Global	Study-wide	125568	G=0.94221	A=0.05779
+gnomAD - Genomes	Global	Study-wide	30904	G=0.9451	A=0.0549
+gnomAD - Genomes	European	Sub	18442	G=0.9559	A=0.0441
+gnomAD - Genomes	African	Sub	8726	G=0.914	A=0.086
+gnomAD - Genomes	East Asian	Sub	1620	G=0.964	A=0.036
+gnomAD - Genomes	Other	Sub	980	G=0.95	A=0.05
+gnomAD - Genomes	American	Sub	836	G=0.97	A=0.03
+gnomAD - Genomes	Ashkenazi Jewish	Sub	300	G=0.99	A=0.01
+1000Genomes	Global	Study-wide	5008	G=0.930	A=0.070
+1000Genomes	African	Sub	1322	G=0.899	A=0.101
+1000Genomes	East Asian	Sub	1008	G=0.966	A=0.034
+1000Genomes	Europe	Sub	1006	G=0.957	A=0.043
+1000Genomes	South Asian	Sub	978	G=0.88	A=0.12
+1000Genomes	American	Sub	694	G=0.97	A=0.03
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	G=0.968	A=0.032
