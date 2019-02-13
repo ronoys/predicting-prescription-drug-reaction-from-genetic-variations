@@ -1,0 +1,15 @@
+Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
+TopMed	Global	Study-wide	125568	T=0.36649	A=0.63351
+gnomAD - Genomes	Global	Study-wide	30426	T=0.3624	A=0.6376
+gnomAD - Genomes	European	Sub	18142	T=0.3761	A=0.6239
+gnomAD - Genomes	African	Sub	8592	T=0.342	A=0.658
+gnomAD - Genomes	East Asian	Sub	1604	T=0.346	A=0.654
+gnomAD - Genomes	Other	Sub	958	T=0.36	A=0.64
+gnomAD - Genomes	American	Sub	830	T=0.27	A=0.73
+gnomAD - Genomes	Ashkenazi Jewish	Sub	300	T=0.46	A=0.54
+1000Genomes	Global	Study-wide	5008	T=0.349	A=0.651
+1000Genomes	African	Sub	1322	T=0.355	A=0.645
+1000Genomes	East Asian	Sub	1008	T=0.354	A=0.646
+1000Genomes	Europe	Sub	1006	T=0.372	A=0.628
+1000Genomes	South Asian	Sub	978	T=0.36	A=0.64
+1000Genomes	American	Sub	694	T=0.28	A=0.72
