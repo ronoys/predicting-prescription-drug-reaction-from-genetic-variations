@@ -1,41 +1,44 @@
-'''import os
-print (os.getcwd() + "hi")
+import os
+#print (os.getcwd() + "hi")
 
-f = open("crestor_data.txt")
-
-x - 0
-while x < 10:
-
-    for line in f:
-        print line
-        x = x + 1
 '''
+f = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/drug_data_sets/crestor_data.txt")
+
+for item in
+
+
+count = 0
+
+variantList = []
+idList = []
+pList = []
+
+for line in f:
+    for term in line.split(" "):
+
+        if term[:2] == "rs":
+            variantList.append(term)
+        elif term > 100000:
+            idList.append(term)
+        else:
+            pList.append(term)
+
+
+
+
+print idList
+'''
+
 import os
 
+directory = 'C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/allele_data_sets/synthroid'
 
-with open(os.path.join(os.getcwd(), 'sample_data.txt'), 'r') as text_file:
-    count = 1
-    for line in text_file:
-        x = str(line)
-        #print x[:2]
-        if x[0:2] == 'rs':
-            print x
-        
-        #try:
-        #    c = float(line)
-        #    if c < 1:
-        #        print c
+for file in os.listdir(directory): # for each file
+    #print file
+    f = open(directory + "/" + file)
+    for row in f: # For each row in each files
+        for term in row.split("	"):
+            print term
 
-        #except:
-        #    print "-"
-        '''if count == 1 or count == 2 or count == 6:
-            print line
-
-        if count == 13:
-            count = 1
-        count = count + 1
-        '''
-        #print str (line)
-
-#print os.path.join(os.getcwd(), 'hello.txt') - prints C:\Users\ronoy\AppData\Local\atom\Atom Files\hello.txt
-#print os.getcwd()
+#file_list = [f for f in os.listdir('.') if os.path.isfile(os.path.join('.', f))]
+#print file_list
