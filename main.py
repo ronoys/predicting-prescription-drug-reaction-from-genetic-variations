@@ -1,3 +1,4 @@
+import math
 def run():
     #nationality = input("Enter nationality: ")
     #drug = input("Enter drug name: ")
@@ -43,20 +44,14 @@ def main(region,drug_taken):
 
     #print allele_list
     #print pval_list
-    studyList = []
     populationList = []
-    groupList = []
     sizeList = []
     refList = []
     altList = []
 
     for i in allele_list:
 
-        #i + "List" = []
-
         data = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/allele_data_sets/" + drug + "/" + str(i) + ".txt")
-
-
 
         index = 0
         for q in data:
@@ -69,18 +64,18 @@ def main(region,drug_taken):
                     sizeList.append(datum)
 
                 if index % 6 == 4:
-                    temp = datum
+                    temp = float(datum[2:])
+                    refList.append(temp)
 
-                    #print list(temp)
-                    refList.append(datum)
-
-                if index % 6 == 5:
-                    altList.append(datum)
+                    alt = round(1 - temp, 4)
+                    altList.append(alt)
 
                 index = index + 1
 
 
-    print refList
+    #print refList
+
+    # Created four lists with population, sample size, ref allele and alt allele
 
 
 run()
