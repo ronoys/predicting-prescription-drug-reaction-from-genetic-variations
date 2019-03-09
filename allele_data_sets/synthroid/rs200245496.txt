@@ -1,4 +1,3 @@
-Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
 gnomAD - Exomes	Global	Study-wide	246120	T=0.99950	C=0.00050
 gnomAD - Exomes	European	Sub	133916	T=0.99911	C=0.00089
 gnomAD - Exomes	Asian	Sub	47998	T=1.0000	C=0.0000
