@@ -2,11 +2,11 @@ import math
 def run():
     #nationality = input("Enter nationality: ")
     #drug = input("Enter drug name: ")
-    #main(nationality,drug)
+    #compile(nationality,drug)
 
-    main("nationality","synthroid")
+    compile("nationality","synthroid")
 
-def main(region,drug_taken):
+def compile(region,drug_taken):
     directory = "C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/drug_data_sets/"
     drug = (str(drug_taken)).lower()
     file = open(directory + drug + '_data.txt')
@@ -73,9 +73,36 @@ def main(region,drug_taken):
                 index = index + 1
 
 
-    #print refList
+    print refList
 
     # Created four lists with population, sample size, ref allele and alt allele
 
 
-run()
+def correctNationality(target,study):
+    countryList = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/Model/Countries-Continents.csv")
+
+    africaList = []
+    asiaList = []
+    europeList = []
+    northList = []
+    oceaniaList = []
+    southList = []
+
+    for i in countryList:
+        i = str(i)
+        if "Africa" in i:
+            africaList.append(i[7:-1])
+        elif "Europe" in i:
+            europeList.append(i[7:-1])
+        elif 'Asia' in i:
+            asiaList.append(i[5:-1])
+        elif "North America" in i:
+            northList.append(i[14:-1])
+        elif "South America" in i:
+            southList.append(i[14:-1])
+        elif "Oceania" in i:
+            oceaniaList.append(i[8:-1])
+    print oceaniaList
+
+#run()
+correctNationality("India","India")
