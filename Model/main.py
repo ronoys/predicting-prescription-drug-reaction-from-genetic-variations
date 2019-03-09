@@ -1,17 +1,14 @@
 import math
 def run():
-    #nationality = input("Enter nationality: ")
-    #drug = input("Enter drug name: ")
-    #compile(nationality,drug)
+    nationality = input("Enter nationality: ")
+    drug = input("Enter drug name: ")
+    return compile(nationality,drug)
 
-    compile("nationality","synthroid")
 
 def compile(region,drug_taken):
     directory = "C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/drug_data_sets/"
     drug = (str(drug_taken)).lower()
     file = open(directory + drug + '_data.txt')
-
-
 
     allele_list = [] # Will store all of the alleles
     pval_list = []
@@ -49,6 +46,10 @@ def compile(region,drug_taken):
     refList = []
     altList = []
 
+    new_p_list = []
+    for z in pval_list:
+        new_p_list.append(float(z))
+
     for i in allele_list:
 
         data = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/allele_data_sets/" + drug + "/" + str(i) + ".txt")
@@ -73,10 +74,40 @@ def compile(region,drug_taken):
                 index = index + 1
 
 
-    print refList
+    #print populationList, sizeList, refList, altList
+    total = 0
+    fakeTotal = 0
+    newPopulationList = []
+    newSizeList = []
+    newRefList = []
+    newAltList  = []
+    pval = float(sum(new_p_list))/float(len(new_p_list))
 
-    # Created four lists with population, sample size, ref allele and alt allele
+    #print pval
 
+    for i in range(0,len(populationList)):
+        if correctNationality(region,populationList[i]) == True:
+            newPopulationList.append(populationList[i])
+            newSizeList.append(sizeList[i])
+            newRefList.append(refList[i])
+            newAltList.append(altList[i])
+
+    #print newSizeList, newRefList, newAltList
+
+    for r in range(0,len(newSizeList)-1):
+        total = total + (float(newRefList[r]) * float(newSizeList[r]))
+        fakeTotal = fakeTotal + (float(newAltList[r]) * float(newSizeList[r]))
+
+        #print total, fakeTotal
+    sum1 = total + fakeTotal
+    averageRef = (total/sum1) * pval
+    averageAlt = (fakeTotal/sum1) * pval
+
+    #print ("Average Reference Allele: " + str(averageRef * pval) )
+    #print ("Average Alternate Allele: " + str(averageAlt * pval))
+
+
+    return averageRef
 
 def correctNationality(target,study):
     countryList = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/Model/Countries-Continents.csv")
@@ -87,7 +118,10 @@ def correctNationality(target,study):
     northList = []
     oceaniaList = []
     southList = []
+    bigList = []
+    answer = ""
 
+    # Assigns country lists
     for i in countryList:
         i = str(i)
         if "Africa" in i:
@@ -102,7 +136,35 @@ def correctNationality(target,study):
             southList.append(i[14:-1])
         elif "Oceania" in i:
             oceaniaList.append(i[8:-1])
-    print oceaniaList
 
-#run()
-correctNationality("India","India")
+    bigList = africaList + asiaList + europeList + northList + oceaniaList + southList
+
+    # Find region of the target -- Works
+    if target in bigList:
+        if target in africaList:
+            answer =  "Africa"
+        elif target in europeList:
+            answer = "Europe"
+        elif target in asiaList:
+            answer = "Asia"
+        elif target in northList:
+            answer = "North America"
+        elif target in oceaniaList:
+            answer = "Oceania"
+        elif target in southList:
+            answer = 'South America'
+
+    # Hard Assign
+
+    if study == "American":
+        study = "North America"
+    if study == "African":
+        study = "Africa"
+    if study == "European":
+        study = "Europe"
+    if study == "Asian" or study == "East Asian" or study == 'South Asian':
+        study = "Asia"
+    if answer == study:
+        return True
+    else:
+        return False
