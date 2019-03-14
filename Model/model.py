@@ -1,28 +1,24 @@
-'''
+from main import run
+specificAlelle, averageAllele = run()
+
+print specificAlelle
+print averageAllele
+
+difference = specificAlelle - averageAllele
+
+
 from sklearn.ensemble import RandomForestClassifier
 
-clf = RandomForestClassifier(n_estimators=2)
+clf = RandomForestClassifier(n_estimators=50)
 
-#[height, weight, shoe_size]
+#[result from drug,average for drug, compared to other drugs]
 
+X = [[.2,.3],[.27,.3],[.3,.3],[.33,.3],[.4,.3]]
 
-X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40], [190, 90, 47], [175, 64, 39],
-     [177, 70, 40], [159, 55, 37], [171, 75, 42], [181, 85, 43]]
-
-Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female', 'male', 'male']
+Y = ['Category 1','Category 2','Category 3','Category 4','Category 5']
 
 clf = clf.fit(X, Y)
 
-prediction = clf.predict([[190, 70, 43]])
+prediction = clf.predict([[specificAlelle,averageAllele]])
 
 print prediction
-
-
-def main():
-    gender = input("What is your gender?")
-
-
-'''
-
-from region import identifyRegion
-identifyRegion("Maryland","Synthroid")

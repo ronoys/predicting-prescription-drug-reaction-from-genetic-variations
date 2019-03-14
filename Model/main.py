@@ -1,9 +1,11 @@
 import math
+
 def run():
     nationality = input("Enter nationality: ")
     drug = input("Enter drug name: ")
+    #return compile(nationality,drug)
     return compile(nationality,drug)
-
+    #compile("India","synthroid")
 
 def compile(region,drug_taken):
     directory = "C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/drug_data_sets/"
@@ -23,7 +25,6 @@ def compile(region,drug_taken):
                 pval_list.append(term)
 
             try:
-
                 if float(term) < 1 or str(term) == 'void':
                     pval_list.append(term)
             except:
@@ -37,7 +38,6 @@ def compile(region,drug_taken):
             index = pval_list.index(i)
             pval_list.pop(index)
             allele_list.pop(index)
-
 
     #print allele_list
     #print pval_list
@@ -83,6 +83,8 @@ def compile(region,drug_taken):
     newAltList  = []
     pval = float(sum(new_p_list))/float(len(new_p_list))
 
+
+
     #print pval
 
     for i in range(0,len(populationList)):
@@ -103,11 +105,23 @@ def compile(region,drug_taken):
     averageRef = (total/sum1) * pval
     averageAlt = (fakeTotal/sum1) * pval
 
+    newRefTotal = 0
+    newAltTotal = 0
+
+    for l in range(0,len(populationList)):
+        newRefTotal = newRefTotal + (float(refList[r])*float(sizeList[r]))
+        newAltTotal = newAltTotal + (float(altList[r]) * float(sizeList[r]))
+
+    newSum = newRefTotal + newAltTotal
+    newAverageRef = (newRefTotal/newSum) * pval
+    newAverageAlt = (newAltTotal/newSum) * pval
+
+     # displays an average
+    #print newAverageAlt
+
     #print ("Average Reference Allele: " + str(averageRef * pval) )
     #print ("Average Alternate Allele: " + str(averageAlt * pval))
-
-
-    return averageRef
+    return averageRef, newAverageRef # displays the result
 
 def correctNationality(target,study):
     countryList = open("C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/Model/Countries-Continents.csv")
@@ -154,8 +168,8 @@ def correctNationality(target,study):
         elif target in southList:
             answer = 'South America'
 
-    # Hard Assign
 
+    # Hard Assign
     if study == "American":
         study = "North America"
     if study == "African":
@@ -164,6 +178,10 @@ def correctNationality(target,study):
         study = "Europe"
     if study == "Asian" or study == "East Asian" or study == 'South Asian':
         study = "Asia"
+
+    if study == "Global":
+        study = answer
+
     if answer == study:
         return True
     else:

@@ -1,15 +1,17 @@
-Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
-TopMed	          Global	           Study-wide	  125568	         C=0.85018	   T=0.14982
-gnomAD - Genomes	Global	           Study-wide	  30930	           C=0.8512	     T=0.1488
-gnomAD - Genomes	European	         Sub	        18474	           C=0.8321	     T=0.1679
-gnomAD - Genomes	African	           Sub	        8722	           C=0.947	     T=0.053
-gnomAD - Genomes	East Asian	       Sub	        1616	           C=0.627	     T=0.373
-gnomAD - Genomes	Other	             Sub	        980	             C=0.82        T=0.18
-gnomAD - Genomes	American	         Sub	        836	             C=0.74	       T=0.26
-gnomAD - Genomes	Ashkenazi Jewish	 Sub	        302	             C=0.86	       T=0.14
-1000Genomes	      Global	           Study-wide	  5008	           C=0.792	     T=0.208
-1000Genomes	      African	           Sub	        1322	           C=0.967	     T=0.033
-1000Genomes	      East Asian	       Sub	        1008	           C=0.606	     T=0.394
-1000Genomes	      Europe	           Sub	        1006	           C=0.830       T=0.170
-1000Genomes	      South Asian	       Sub	        978	             C=0.70	       T=0.30
-1000Genomes	      American	         Sub	        694	             C=0.80	       T=0.20
+TopMed	Global	Study-wide	125568	C=0.85018	T=0.14982
+gnomAD - Genomes	Global	Study-wide	30930	C=0.8512	T=0.1488
+gnomAD - Genomes	European	Sub	18474	C=0.8321	T=0.1679
+gnomAD - Genomes	African	Sub	8722	C=0.947	T=0.053
+gnomAD - Genomes	East Asian	Sub	1616	C=0.627	T=0.373
+gnomAD - Genomes	Other	Sub	980	C=0.82	T=0.18
+gnomAD - Genomes	American	Sub	836	C=0.74	T=0.26
+gnomAD - Genomes	Ashkenazi Jewish	Sub	302	C=0.86	T=0.14
+1000Genomes	Global	Study-wide	5008	C=0.792	T=0.208
+1000Genomes	African	Sub	1322	C=0.967	T=0.033
+1000Genomes	East Asian	Sub	1008	C=0.606	T=0.394
+1000Genomes	Europe	Sub	1006	C=0.830	T=0.170
+1000Genomes	South Asian	Sub	978	C=0.70	T=0.30
+1000Genomes	American	Sub	694	C=0.80	T=0.20
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	C=0.824	T=0.176
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	C=0.834	T=0.166
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	C=0.836	T=0.164
