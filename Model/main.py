@@ -7,6 +7,9 @@ def run():
     return compile(nationality,drug)
     #compile("India","synthroid")
 
+def autoRun(nationality,drug):
+    return compile(nationality,drug)
+
 def compile(region,drug_taken):
     directory = "C:/Users/ronoy/Documents/GitHub/predicting-prescription-drug-reaction-from-genetic-variations/drug_data_sets/"
     drug = (str(drug_taken)).lower()
@@ -178,6 +181,8 @@ def correctNationality(target,study):
         study = "Europe"
     if study == "Asian" or study == "East Asian" or study == 'South Asian':
         study = "Asia"
+    if study == 'US':
+        study = "North America"
 
     if study == "Global":
         study = answer
