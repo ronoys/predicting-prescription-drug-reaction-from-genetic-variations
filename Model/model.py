@@ -1,6 +1,6 @@
 from main import autoRun
 import random
-specificAlelle, averageAllele = autoRun("India","Synthroid")
+#specificAlelle, averageAllele = autoRun("India","spiriva")
 import plotly.plotly as py
 import plotly.tools as tls
 import seaborn as sns
@@ -47,7 +47,7 @@ relChanceList = []
 
 for i in bigList:
 
-    origchance, origrelChance = autoRun(i,"synthroid")
+    origchance, origrelChance = autoRun(i,"januvia")
 
     #a = random.uniform(chance,chance)
     #b = random.uniform(relChance,relChance)
@@ -94,17 +94,11 @@ df = pd.DataFrame(zippedList,columns=['Region','Country','Percent Risk','Percent
 #value=(df['Country'].isin(southList))
 #df['color']= np.where(value == True , "#9b59b6", "#3498db")
 
-
-
 ax = sns.lmplot(x='Percent Risk', y='Percent Compared Risk', data=df, fit_reg=False, scatter_kws={"alpha":0.8,"s":50} , hue='Region')
 
-ax.fig.suptitle("Synthroid Clusters")
+ax.fig.suptitle("Januvia Clusters")
+
 plt.show()
-
-
-
-
-
 
 '''
 

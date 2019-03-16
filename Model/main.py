@@ -21,7 +21,7 @@ def compile(region,drug_taken):
     for line in file:
         for term in line.split():
 
-            if term[:2] == 'rs':
+            if term[:2] == 'rs' or term[:2] == 'CY':
                 allele_list.append(term)
 
             if str(term) == 'void':

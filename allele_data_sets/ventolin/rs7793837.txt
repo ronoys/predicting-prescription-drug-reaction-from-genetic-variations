@@ -1,4 +1,3 @@
-Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
 TopMed	Global	Study-wide	125568	A=0.59093	T=0.40907
 gnomAD - Genomes	Global	Study-wide	30856	A=0.6164	T=0.3836
 gnomAD - Genomes	European	Sub	18420	A=0.7689	T=0.2311

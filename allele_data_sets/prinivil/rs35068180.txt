@@ -1,4 +1,3 @@
-Study	            Population	       Group	      Sample Size	     Ref Allele	   Alt Allele
 TopMed	Global	Study-wide	125568	-	delA=0.00001
 1000Genomes	Global	Study-wide	5008	-	dupA=0.788
 1000Genomes	African	Sub	1322	-	dupA=0.954
