@@ -1,6 +1,5 @@
 from main import autoRun
 import random
-#specificAlelle, averageAllele = autoRun("India","spiriva")
 import plotly.plotly as py
 import plotly.tools as tls
 import seaborn as sns
@@ -47,7 +46,7 @@ relChanceList = []
 
 for i in bigList:
 
-    origchance, origrelChance = autoRun(i,"januvia")
+    origchance, origrelChance = autoRun(i,"synthroid")
 
     #a = random.uniform(chance,chance)
     #b = random.uniform(relChance,relChance)
@@ -82,43 +81,15 @@ for i in bigList:
         fullCountryList.append('Oceania')
 
 
-
-#df = pd.DataFrame({'Chance':[chance],'Relative Chance':[relChance]})
-
 zippedList = list(zip(fullCountryList,bigList,xList,yList))
 df = pd.DataFrame(zippedList,columns=['Region','Country','Percent Risk','Percent Compared Risk'])
 
-#print df
-
-#value=(df['Relative Chance']>0.025)
-#value=(df['Country'].isin(southList))
-#df['color']= np.where(value == True , "#9b59b6", "#3498db")
 
 ax = sns.lmplot(x='Percent Risk', y='Percent Compared Risk', data=df, fit_reg=False, scatter_kws={"alpha":0.8,"s":50} , hue='Region')
 
-ax.fig.suptitle("Januvia Clusters")
+ax.fig.suptitle("Ventolin Clusters")
 
 plt.show()
-
-'''
-
-difference = specificAlelle - averageAllele
-
-
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.cross_validation import cross_val_score
-
-clf = RandomForestClassifier(n_estimators=50)
-
-#[result from drug,average for drug, compared to other drugs]
-
-X = [[.2,.3],[.27,.3],[.3,.3],[.33,.3],[.4,.3]]
-
-Y = ['Category 1','Category 2','Category 3','Category 4','Category 5']
-
-clf = clf.fit(X, Y)
-
-prediction = clf.predict([[specificAlelle,averageAllele]])
-
-print prediction
-'''
+#np.savetxt(r'C:/Users/ronoy/Documents/Python/pip/np.txt', df.values)#, fmt='%d')
+df.to_csv('C:/Users/ronoy/Documents/Python/pip/np.txt', header=True, index=False, sep='\t', mode='a')
+#print df
